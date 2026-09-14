@@ -1,11 +1,18 @@
----
+# Airway Management System
 
-# 2. Airway Management System
+A console-based airline management application developed using Python.
 
-### Folder structure
+## Features
+- Flight scheduling
+- Passenger booking
+- Seat tracking
+- Passenger list management
+- Menu-driven interface
 
-```text
-Airway-Management-System/
-│
-├── airway.py
-└── README.md
+## Technologies
+- Python
+
+## Run
+
+```bash
+python airway.py
